@@ -1,3 +1,3 @@
 # maven-project
-master latest
+branch1
 Simple Maven Project
