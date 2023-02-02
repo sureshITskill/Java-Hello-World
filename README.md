@@ -1,3 +1,3 @@
 # maven-project
-master code
+master latest
 Simple Maven Project
