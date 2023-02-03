@@ -1,3 +1,4 @@
 master
 next line
 second line`
+new line added in remote branch2
